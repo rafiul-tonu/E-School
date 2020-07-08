@@ -1,0 +1,61 @@
+.container-fluid {
+  background-color: rgba(240, 255, 240, 1);
+  padding:10px 100px;
+}
+.first {
+  background-color: rgba(240, 255, 240, 1);
+
+}
+
+.navbar-brand img {
+  height: 58px;
+  width: 198px;
+}
+.sing-in {
+  background-color: rgba(33, 181, 115, 1);
+  border-radius: 30px;
+  color: white;
+}
+.second {
+  background-color: rgba(240, 255, 240, 1);
+}
+#text-color1 {
+  color: rgba(253, 81, 26, 1)
+}
+#text-color2 {
+  color: rgba(33, 181, 115, 1);
+}
+.cls-button {
+  background-color: rgba(33, 181, 115, 1);
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding: 9px 25px;
+}
+#illustration {
+  height: 346px;
+  width: 554px;
+}
+/* container 3rd */
+.container {
+  margin-top: 50px;
+}
+/* card deck */
+.card {
+  padding-top: 10px;
+  border:none;
+  text-align: center;
+  box-shadow: 5px 5px 10px lightgrey;
+  background-color: rgb(140, 230, 189);
+}
+.card:hover{
+  background-color: white;
+}
+.card img {
+  height: 85px;
+  width: 66px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+  
