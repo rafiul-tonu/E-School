@@ -2,10 +2,7 @@
   background-color: rgba(240, 255, 240, 1);
   padding:10px 100px;
 }
-.first {
-  background-color: rgba(240, 255, 240, 1);
 
-}
 
 .navbar-brand img {
   height: 58px;
@@ -41,21 +38,68 @@
   margin-top: 50px;
 }
 /* card deck */
-.card {
+.one {
   padding-top: 10px;
   border:none;
   text-align: center;
   box-shadow: 5px 5px 10px lightgrey;
   background-color: rgb(140, 230, 189);
 }
-.card:hover{
+.one:hover{
   background-color: white;
 }
-.card img {
+.one img {
   height: 85px;
   width: 66px;
   margin-left: auto;
   margin-right: auto;
 }
+.online h3{
+  text-align: center;
+  padding: 40px;
+}
+.c-two{
+  box-shadow: 5px 5px 10px lightgrey;
+}
+.c-two img{
+ height: 220px;
+ width: 300px;
+ padding-top: 20px;
+ margin-left: auto;
+ margin-right: auto;
+}
+.testimonial {
+  padding-bottom: 60px;
+}
+.testimonial h1{
+ text-align: center; 
+ padding: 40px;
+}
+.testimonial img {
+  height: 120px;
+  width:120px;
+  border-radius: 50%;
+  padding-left: 20px;
+  float: right;
+}
+
+
+.last-part{
+  background-color:lightslategray;
+  color:white;
+  border: none;
+}
+.last-part li {
+  list-style-type: none;
+}
+footer {
+  background-color: lightslategray;
+  text-align: center;
+  color:white;
+}
+
+
+
+
 
   
