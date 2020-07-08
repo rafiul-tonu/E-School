@@ -33,22 +33,21 @@
   height: 346px;
   width: 554px;
 }
-/* container 3rd */
+
 .container {
   margin-top: 50px;
 }
-/* card deck */
-.one {
+.c-one {
   padding-top: 10px;
   border:none;
   text-align: center;
   box-shadow: 5px 5px 10px lightgrey;
   background-color: rgb(140, 230, 189);
 }
-.one:hover{
+.c-one:hover{
   background-color: white;
 }
-.one img {
+.c-one img {
   height: 85px;
   width: 66px;
   margin-left: auto;
@@ -68,6 +67,14 @@
  margin-left: auto;
  margin-right: auto;
 }
+.half-part {
+  float: left;
+}
+.half-part img {
+ height: 60px;
+ width: 50px;
+}
+
 .testimonial {
   padding-bottom: 60px;
 }
